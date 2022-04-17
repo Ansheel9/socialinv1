@@ -27,7 +27,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
         <WhiteBackgroundContainer>
           <Hero />
           <Partners />
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" >
+            <BasicSection imageUrl="/demo-illustration-2.svg" title="INVESTING IS BETTER WITH FRIENDS" overTitle="Discuss" >
              
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
@@ -36,7 +36,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
             
           </BasicSection>
 
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
+          <BasicSection imageUrl="/demo-illustration-2.svg" title="CREATE, COPY AND SHARE YOUR STOCK PLAYLISTS" overTitle="Collaborate" reversed>
                
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
@@ -45,7 +45,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
             
           </BasicSection>
 
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" >
+          <BasicSection imageUrl="/demo-illustration-2.svg" title="INVEST IN WHAT YOU BELIEVE IN, WITH AS LOW AS ₹50" overTitle="Invest" >
                
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
@@ -54,7 +54,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
             
           </BasicSection>
 
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
+          <BasicSection imageUrl="/demo-illustration-2.svg" title="WIN UPTO ₹1 LAKH EVERY WEEK" overTitle="Win" reversed>
                
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
@@ -66,8 +66,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           <BasicSection imageUrl="/demo-illustration-2.svg" title="(L)EARN MONEY" overTitle="Earn" >
                
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
-              <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
+              Hi Ansheel. How are you ? 
             </p>
             
           </BasicSection>
