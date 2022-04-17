@@ -27,40 +27,47 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
         <WhiteBackgroundContainer>
           <Hero />
           <Partners />
-            <BasicSection imageUrl="/demo-illustration-2.svg" title="INVESTING IS BETTER WITH FRIENDS" overTitle="Discuss" >
+          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" >
+             
             <p>
-              Create private chats with your gang, see what your friends are investing in, get instant data-rich insights as you discuss and share ideas with each other.
-              <br/> Psst...We do not disclose your Investment Amount to anyone.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
+              <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
             </p>
             
           </BasicSection>
 
-            <BasicSection imageUrl="/demo-illustration-2.svg" title="CREATE, COPY AND SHARE YOUR STOCK PLAYLISTS" overTitle="Collaborate" reversed>
+          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
+               
             <p>
-              Create your own playlist of stocks, make one with your group or just find investors you believe in. Reduce risk, invest across different companies so you're not putting all your eggs in one basket, literally.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
+              <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
             </p>
             
           </BasicSection>
 
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="INVEST IN WHAT YOU BELIEVE IN, WITH AS LOW AS ₹50" overTitle="Invest" >
+          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" >
+               
             <p>
-            Invest in US Companies, Indian Companies, ETFs and Mutual Funds. <br/>
-            If you believe Tesla holds the future for cars, be a part of it for as low as ₹50.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
+              <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
             </p>
             
           </BasicSection>
 
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="WIN UPTO ₹1 LAKH EVERY WEEK" overTitle="Win" reversed>
+          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
+               
             <p>
-            Earn Tokens with every investment you make, ₹1 = 1 token. <br/> Participate with the tokens in weekly games or win by showing off your group’s investing power on the weekly leaderboard.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
+              <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
             </p>
             
           </BasicSection>
 
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="(L)EARN MONEY" overTitle="Earn" >
+          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" >
+               
             <p>
-            Don't worry, we do the hard work. <br/> 
-            It’s hard to get time from your busy schedule. We get it. Get insights in a bite-sized form. Stay on top with the latest news. Discuss it with friends. All at one place.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
+              <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
             </p>
             
           </BasicSection>
