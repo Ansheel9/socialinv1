@@ -91,11 +91,12 @@ const CustomOverTitle = styled(OverTitle)`
 `;
 
 const Heading = styled.h1`
-  font-size: 7.2rem;
+  font-size: 6rem;
   font-weight: bold;
   line-height: 1.1;
   margin-bottom: 4rem;
   letter-spacing: -0.03em;
+  
 
   ${media('<=tablet')} {
     font-size: 4.6rem;
