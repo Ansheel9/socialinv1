@@ -28,7 +28,6 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           <Hero />
           <Partners />
             <BasicSection imageUrl="/demo-illustration-2.svg" title="INVESTING IS BETTER WITH FRIENDS" overTitle="Discuss" >
-            <h5>Investing Gone Social</h5>
             <p>
               Create private chats with your gang, see what your friends are investing in, get instant data-rich insights as you discuss and share ideas with each other.
               <br/> Psst...We do not disclose your Investment Amount to anyone.
