@@ -65,8 +65,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           <BasicSection imageUrl="/demo-illustration-2.svg" title="(L)EARN MONEY" overTitle="Earn" >
                
           <p>
-              Don't worry, we do the hard work. Its hard to get time from your busy schedule. We get it. Get insights in a byte-sized form.
-              Stay on top with the latest news. Discuss it with frineds. All at one place.
+              Hi Ansheel. How are you ? What is your name? Lets go to sleep.
             </p>
             
           </BasicSection>
