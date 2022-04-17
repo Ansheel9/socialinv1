@@ -27,26 +27,26 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
         <WhiteBackgroundContainer>
           <Hero />
           <Partners />
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" >
+            <BasicSection imageUrl="/demo-illustration-2.svg" title="INVESTING IS BETTER WITH FRIENDS" overTitle="Discuss" >
+            <h5>Investing Gone Social</h5>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
-              <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
+              Create private chats with your gang, see what your friends are investing in, get instant data-rich insights as you discuss and share ideas with each other.
+              <br/> Psst...We do not disclose your Investment Amount to anyone.
             </p>
             
           </BasicSection>
 
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
+            <BasicSection imageUrl="/demo-illustration-2.svg" title="CREATE, COPY AND SHARE YOUR STOCK PLAYLISTS" overTitle="Collaborate" reversed>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
-              <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
+              Create your own playlist of stocks, make one with your group or just find investors you believe in. Reduce risk, invest across different companies so you're not putting all your eggs in one basket, literally.
             </p>
             
           </BasicSection>
 
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" >
+          <BasicSection imageUrl="/demo-illustration-2.svg" title="INVEST IN WHAT YOU BELIEVE IN, WITH AS LOW AS ₹50" overTitle="Invest" >
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
-              <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
+            Invest in US Companies, Indian Companies, ETFs and Mutual Funds. <br/>
+            If you believe Tesla holds the future for cars, be a part of it for as low as ₹50.
             </p>
             
           </BasicSection>
@@ -58,10 +58,10 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
             
           </BasicSection>
 
-          <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" >
+          <BasicSection imageUrl="/demo-illustration-2.svg" title="(L)EARN MONEY" overTitle="Earn" >
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
-              <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
+            Don't worry, we do the hard work. <br/> 
+            It’s hard to get time from your busy schedule. We get it. Get insights in a bite-sized form. Stay on top with the latest news. Discuss it with friends. All at one place.
             </p>
             
           </BasicSection>
