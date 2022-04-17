@@ -56,7 +56,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           <BasicSection imageUrl="/demo-illustration-2.svg" title="WIN UPTO ₹1 LAKH EVERY WEEK" overTitle="Win" reversed>
                
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '} 
               voluptate quo deleniti animi laboriosam. Possimus ullam velit rem itaque consectetur, in distinctio?
             </p>
             
@@ -65,7 +65,8 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
           <BasicSection imageUrl="/demo-illustration-2.svg" title="(L)EARN MONEY" overTitle="Earn" >
                
           <p>
-              Hi Ansheel. How are you ? What is your name? Lets go to sleep.
+              Hi Ansheel. How are you ? What is your name? Lets go to sleep. My name is Shantanu but the thing is that hell is and real and{' '}
+              I am not going there. Hope you are doing well in you wildest dreams. take care. bye.
             </p>
             
           </BasicSection>
