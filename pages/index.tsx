@@ -67,7 +67,7 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
                
             <p>
               Don't worry we do the hard work.
-              It’s hard to get time from your busy schedule. We get it. Get insights in a bite-sized form. Stay on top with the latest news. Discuss it with friends. All at one place.
+              It's hard to get time from your busy schedule. We get it. Get insights in a byte-sized form. Stay on top with the latest news. Discuss it with friends. All at one place.
             </p>
             
           </BasicSection>
