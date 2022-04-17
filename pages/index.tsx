@@ -64,9 +64,9 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
 
           <BasicSection imageUrl="/demo-illustration-2.svg" title="(L)EARN MONEY" overTitle="Earn" >
                
-          <p>
-              Hi Ansheel. How are you ? What is your name? Lets go to sleep. My name is Shantanu but the thing is that hell is and real and{' '}
-              I am not going there. Hope you are doing well in you wildest dreams. take care. bye.
+            <p>
+              Don't worry we do the hardwork. It's hard to get time from your busy schedule. We get it. Get insight in a bite-sized form. Stay{' '}
+              on top with the latest news. Discuss it with friends. All at one place.
             </p>
             
           </BasicSection>
