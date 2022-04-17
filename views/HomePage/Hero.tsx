@@ -15,9 +15,9 @@ export default function Hero() {
     <HeroWrapper>
       <Contents>
         <CustomOverTitle>Invest. Earn. Win.</CustomOverTitle>
-        <Heading>INDIA'S 1st SOCIAL INVESTING PLATFORM</Heading>
+        <Heading>INDIA'S 1st </br> SOCIAL INVESTING APP</Heading>
         <Description>
-         Invest with Friends and Family. Win upto ₹1 lakh every week!{"\n"}
+         Invest with Friends and Family. Win upto ₹1 lakh every week!</br>
          Moreover, directly invest in US Stocks at Zero commission.
         </Description>
         <CustomButtonGroup>
@@ -91,7 +91,7 @@ const CustomOverTitle = styled(OverTitle)`
 `;
 
 const Heading = styled.h1`
-  font-size: 6rem;
+  font-size: 7rem;
   font-weight: bold;
   line-height: 1.1;
   margin-bottom: 4rem;
