@@ -64,9 +64,9 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
 
           <BasicSection imageUrl="/demo-illustration-2.svg" title="(L)EARN MONEY" overTitle="Earn" >
                
-            <p>
-              Don't worry we do the hard work. It's hard to get time from your busy schedule. We get it. Get insights in a 
-              byte-sized form. Stay on top with the latest news. Discuss it with friends. All at one place.
+          <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
+              voluptate quo deleniti. Hi Ansheel. How ae you. well yu might be okay. Possimus ullam velit rem itaque consectetur, in distinctio?
             </p>
             
           </BasicSection>
