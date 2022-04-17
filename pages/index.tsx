@@ -36,17 +36,37 @@ export default function Homepage({ posts }: InferGetStaticPropsType<typeof getSt
               at suscipit quis est soluta?
             </p>
           </BasicSection>
+
           <BasicSection imageUrl="/demo-illustration-2.svg" title="Lorem ipsum dolor sit." overTitle="lorem ipsum" reversed>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, quidem error incidunt a doloremque voluptatem porro inventore{' '}
               <strong>voluptate quo deleniti animi laboriosam</strong>. Possimus ullam velit rem itaque consectetur, in distinctio?
             </p>
-            <ul>
-              <li>Professional point 1</li>
-              <li>Professional remark 2</li>
-              <li>Professional feature 3</li>
-            </ul>
+            
           </BasicSection>
+
+          <BasicSection imageUrl="/demo-illustration-1.svg" title="INVEST IN WHAT YOU BELIEVE IN, WITH AS LOW AS ₹50" overTitle="Invest">
+            <p>
+            Invest in US Companies, Indian Companies, ETFs and Mutual Funds. <br/>
+            If you believe Tesla holds the future for cars, be a part of it for as low as ₹50.{' '}
+              <Link href="/help-center"></Link>
+            </p>
+          </BasicSection>
+
+          <BasicSection imageUrl="/demo-illustration-2.svg" title="WIN UPTO ₹1 LAKH EVERY WEEK" overTitle="Win" reversed>
+            <p>
+            Earn Tokens with every investment you make, ₹1 = 1 token. <br/> Participate with the tokens in weekly games or win by showing off your group’s investing power on the weekly leaderboard.
+            </p>
+            
+          </BasicSection>
+
+          <BasicSection imageUrl="/demo-illustration-1.svg" title="(L)EARN MONEY" overTitle="Earn">
+            <p>
+              Don't worry, we do the hard work. <br/>{' '}
+              <Link href="/help-center"></Link> It’s hard to get time from your busy schedule. We get it. Get insights in a bite-sized form. Stay on top with the latest news. Discuss it with friends. All at one place.
+            </p>
+          </BasicSection>
+          
         </WhiteBackgroundContainer>
         <DarkerBackgroundContainer>
           <Cta />

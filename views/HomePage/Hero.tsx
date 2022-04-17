@@ -17,8 +17,8 @@ export default function Hero() {
         <CustomOverTitle>Invest. Earn. Win.</CustomOverTitle>
         <Heading>INDIA'S 1st <br/> SOCIAL INVESTING APP</Heading>
         <Description>
-         Invest with Friends and Family. Win upto ₹1 lakh every week <br/>
-         Moreover, directly invest in US Stocks at Zero commission.
+         Invest with Friends and Family. <br/> Win upto <strong> ₹1 lakh </strong> every week! <br/>
+         Directly invest in US Stocks at Zero commission.
         </Description>
         <CustomButtonGroup>
           <Button onClick={() => setIsModalOpened(true)}>
